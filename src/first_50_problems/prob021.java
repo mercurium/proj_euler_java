@@ -1,5 +1,6 @@
+package first_50_problems;
 
-public class prob21 {
+public class prob021 {
 	
 	public static int[] divisorSum(int size){
 		

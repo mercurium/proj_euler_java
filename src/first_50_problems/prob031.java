@@ -1,6 +1,7 @@
+package first_50_problems;
 import java.util.*;
 
-public class prob31 {
+public class prob031 {
 	
 	static HashMap visited = new HashMap(1000);
 	static int[] coinVals = {200,100,50,20,10,5,2,1};

@@ -1,5 +1,6 @@
+package first_50_problems;
 
-public class prob47 {
+public class prob047 {
 
 	public static int[] primeCount(int n){
 		int[] numbers = new int[n+1];

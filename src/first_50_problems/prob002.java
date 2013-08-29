@@ -1,5 +1,6 @@
+package first_50_problems;
 
-public class prob2 {
+public class prob002 {
 	public static void main(String[] args){
 		int sum = 0;
 		int a =1, b=1, temp = 0;

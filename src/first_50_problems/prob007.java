@@ -1,5 +1,6 @@
+package first_50_problems;
 
-public class prob7 {
+public class prob007 {
 	
 
 	public static void main(String[] args) {

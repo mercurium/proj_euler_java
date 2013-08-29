@@ -1,5 +1,6 @@
+package first_50_problems;
 
-public class prob16 {
+public class prob016 {
 	/**
 	 * This is an array implementation of multiplication for a large number. Assumes that original number given is within size of array.
 	 * Also suffers from int overflow, but we can specify how big we want to make it.

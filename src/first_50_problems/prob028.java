@@ -1,5 +1,6 @@
+package first_50_problems;
 
-public class prob28 {
+public class prob028 {
 	public static void main(String[] args){
 		
 		long startTime = System.nanoTime();
