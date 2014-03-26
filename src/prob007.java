@@ -1,5 +1,3 @@
-package first_50_problems;
-
 public class prob007 {
 	
 

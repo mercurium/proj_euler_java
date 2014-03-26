@@ -1,4 +1,3 @@
-package first_50_problems;
 import java.util.*;
 
 public class prob031 {

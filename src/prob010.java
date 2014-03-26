@@ -1,5 +1,3 @@
-package first_50_problems;
-
 public class prob010 {
 
 	public static void main(String[] args) {

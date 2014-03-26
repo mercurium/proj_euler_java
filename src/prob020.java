@@ -1,4 +1,3 @@
-package first_50_problems;
 public class prob020 {
 	
 	/* Since we may be dealing with large numbers, we'll keep them in an array

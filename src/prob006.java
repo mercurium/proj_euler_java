@@ -1,5 +1,3 @@
-package first_50_problems;
-
 public class prob006 {
 	public static void main(String[] args){
 		int sumSq = 0;
